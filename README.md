@@ -8,13 +8,13 @@
 
 - Es un proyecto creado por mi , la cual consiste en solo un panel de bath de windows para poner ejecutar mas rapido las paginas o enlaces de la universidad de pamplona, esto puesto en el mundo educativo toca ser una persona rapida para ir a temas de la unviersidad.
 - Este proyecto lo dejare de forma opensource para que lo modifiques a tus gustos y preferencias, pero normalmente ire actualizando las versiones para que sea mas actualizada la informacion base o nesearia para adaptarte a la universidad mas rapido.
-- recorder que desde el repositorio pueden ver el codigo fuente para que miren que no es un fraude el proyecto en general, mis intenciones no son de maleficencia si no de solidaridad con los demas, adapte este gui para mayormente a la facultad de ingeneria de sistemas puesto que es mi carrera, ustedes pueden daptarlo a sus gustos y necesidades , recuerden que solo es una base en general
+- recordar que desde el repositorio pueden ver el codigo fuente para que miren que no es un fraude el proyecto en general, mis intenciones no son de maleficencia si no de solidaridad con los demas, adapte este gui para mayormente a la facultad de ingeneria de sistemas puesto que es mi carrera, ustedes pueden daptarlo a sus gustos y necesidades , recuerden que solo es una base en general
 - mayor sea la version es la actualización mas reciente, ya sean modificaciones , correciones , o mejoras.
 que lo disfruten. :D
 
 ## ACTUALIZACIONES INFORMACIÓN:
 > **UP V0.0:**
-- Esta version solo no tiene un banner o logotipo ya que genera muchos errores en equipos de bajos recursos
+- Esta version solo no tiene un banner o logotipo ya que genera muchos errores en equipos de bajos recursos, tambien le quite el formato chcp 65001 >nul
 
 > **UP V0:**
 - Es una version ligera que siempre haga para equipos que no requiere mucho procesar batch ya que no cargara una que otra cosa, no tiene el formato chcp 65001 >nul por eso el motivo de ser mas liviano ya que uno que otro dispositivo con cargara la libreria de chcp 65001 >nul para caracteres avanzados 
